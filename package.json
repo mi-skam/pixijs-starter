@@ -1,0 +1,22 @@
+{
+  "name": "fruitninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "npm run build && vite preview --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/assets": "^7.2.4",
+    "@pixi/sprite": "^7.2.4",
+    "pixi.js": "^7.2.4"
+  },
+  "devDependencies": {
+    "vite": "^4.4.2"
+  }
+}
