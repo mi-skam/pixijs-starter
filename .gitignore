@@ -2,4 +2,3 @@ node_modules/
 dist/
 .direnv/
 package-lock.json
-flake.lock
